@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: gitkomo@protonmail.com
 description: "This website is more like a online summarization about what I've learned。"
 keyword: "GSOC22 NLP"
-url: "https://github.com/kkie02/QingGSOC22.github.io"              # your host, for absolute URL
+url: "https://kkie02.github.io/Test_Web/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
